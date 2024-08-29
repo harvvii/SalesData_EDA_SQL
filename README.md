@@ -12,3 +12,5 @@ This analysis aims to answer the question of the sales trends of product. The re
 
 3. Customer Analysis
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+
+The EDA Questions Doc consists of the ideas that helped in the analysis.
